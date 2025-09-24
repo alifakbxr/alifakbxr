@@ -127,34 +127,6 @@ cd ticketing-system && composer install && php artisan serve
 
 ---
 
-## 🤝 Contributing
-
-I welcome contributions to my projects! Here's how you can help:
-
-### 🚀 How to Contribute
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **Make** your changes with clear commit messages
-4. **Test** thoroughly
-5. **Submit** a pull request
-
-### 📝 Contribution Guidelines
-
-- Follow existing code style and conventions
-- Write tests for new features
-- Update documentation as needed
-- Ensure all tests pass
-- Use meaningful commit messages
-
-### 🐛 Found a Bug?
-
-- Check existing [issues](https://github.com/alifakbxr/portfolio-projects/issues)
-- Create a detailed bug report with reproduction steps
-- Include environment details and error logs
-
----
-
 ## 📞 Let's Connect
 
 I'm always interested in new opportunities and collaborations!
