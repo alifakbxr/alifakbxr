@@ -53,11 +53,11 @@ When I'm not coding, you'll find me exploring the latest tech trends, contributi
 
 #### **Most Used Languages** 📊
 
-![TypeScript](https://img.shields.io/badge/TypeScript-29.55%-007ACC?style=flat&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-27.21%-777BB4?style=flat&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-24.49%-00ADD8?style=flat&logo=go&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-16.77%-F7931E?style=flat&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0.18%-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-29.55%25-007ACC?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-27.21%25-777BB4?style=flat&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-24.49%25-00ADD8?style=flat&logo=go&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-16.77%25-F7931E?style=flat&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0.18%25-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 #### **Technologies I Love** ❤️
 
