@@ -5,9 +5,9 @@
 ### 👋 Hi, I'm **Alif Akbar**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🇮🇩_Medan,_Indonesia-FF6B35?style=flat&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/🇮🇩_Deli_Serdang,_Indonesia-FF6B35?style=flat&logo=googlemaps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/🏢_@katsudoto-4285F4?style=flat&logo=company&logoColor=white" alt="Company"/>
-  <img src="https://img.shields.io/badge/🚀_Backend--Focused_Full--Stack_Developer-00D4AA?style=flat&logo=github&logoColor=white" alt="Specialization"/>
+  <img src="https://img.shields.io/badge/🚀_Full--Stack_Developer-00D4AA?style=flat&logo=github&logoColor=white" alt="Specialization"/>
 </div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alifakbxr)
@@ -15,7 +15,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://helloalif.tech)
 [![Email](https://img.shields.io/badge/Email-xaliip16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xaliip16@gmail.com)
 
-> **🚀 Backend-Focused Full-Stack Developer** | I turn complex problems into elegant solutions. **3+ years** crafting APIs that scale, interfaces that delight, and systems that endure. **Laravel** + **Go** + **React** = Magic ✨
+> **🚀 Full-Stack Developer** | I turn complex problems into elegant solutions. **3+ years** crafting APIs that scale, interfaces that delight, and systems that endure. **Laravel** + **Go** + **React** = Magic ✨
 
 </div>
 
@@ -33,7 +33,7 @@
 
 ## 🚀 About Me
 
-**From Medan to production code** 🇮🇩 - I'm a **full-stack developer** who believes great software should be as beautiful as it is functional.
+**From Deli Serdang to production code** 🇮🇩 - I'm a **full-stack developer** who believes great software should be as beautiful as it is functional.
 
 **3+ years** of turning coffee ☕ into scalable applications at **Katsudoto.id**. I specialize in **Laravel** backends that don't break, **React** frontends users love, and **Go** services that scale effortlessly.
 
@@ -243,7 +243,7 @@ cd ticketing-system && composer install && php artisan serve
 - 🌟 **Passionate about clean code** and maintainable architecture
 - 🤝 **Active learner** always exploring new technologies and frameworks
 - 🔧 **Multi-paradigm developer** comfortable with OOP, functional, and reactive programming
-- 📍 **Proud Indonesian developer** from the vibrant city of Medan
+- 📍 **Proud Indonesian developer** from the vibrant city of Deli Serdang
 
 ---
 
@@ -301,17 +301,17 @@ cd ticketing-system && composer install && php artisan serve
 
 ### **📍 Location & Availability**
 
-- 🌍 **Medan, Indonesia** | 🏢 **Katsudoto.id**
-- ⏰ **Available for freelance projects** and **full-time opportunities**
-- 💬 **Open to discussing** backend development, API design, and full-stack projects
+🌍 **Deli Serdang, Indonesia** | 🏢 **Katsudoto.id**
+⏰ **Available for freelance projects** and **full-time opportunities**
+💬 **Open to discussing** backend development, API design, and full-stack projects
 
 ### **💼 What I Can Build For You**
 
-- 🚀 **Web Apps That Wow** - Custom applications that users love
-- 🔧 **APIs That Scale** - Robust backends that handle growth
-- 📱 **Full-Stack Magic** - Laravel + React/Next.js harmony
-- 🗄️ **Data Architecture** - Databases designed for performance
-- 🚢 **DevOps Automation** - Seamless deployment pipelines
+🚀 **Web Apps That Wow** - Custom applications that users love
+🔧 **APIs That Scale** - Robust backends that handle growth
+📱 **Full-Stack Magic** - Laravel + React/Next.js harmony
+🗄️ **Data Architecture** - Databases designed for performance
+🚢 **DevOps Automation** - Seamless deployment pipelines
 
 ---
 
@@ -323,7 +323,7 @@ If you find my projects **helpful**, **inspiring**, or just **cool** - please gi
 
 <div align="center">
   <img src="https://img.shields.io/badge/Thanks_for_Visiting!-🚀-FF6B6B?style=for-the-badge" alt="Thanks"/>
-  <img src="https://img.shields.io/badge/Made_with_❤️_in_Medan-FF1493?style=for-the-badge" alt="Made with Love"/>
+  <img src="https://img.shields.io/badge/Made_with_❤️_in_Deli_Serdang-FF1493?style=for-the-badge" alt="Made with Love"/>
 </div>
 
 **Happy coding!** 👨‍💻✨
