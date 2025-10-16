@@ -301,17 +301,17 @@ cd ticketing-system && composer install && php artisan serve
 
 ### **📍 Location & Availability**
 
-🌍 **Deli Serdang, Indonesia** | 🏢 **Katsudoto.id**
-⏰ **Available for freelance projects** and **full-time opportunities**
-💬 **Open to discussing** backend development, API design, and full-stack projects
+- 🌍 **Deli Serdang, Indonesia** | 🏢 **Katsudoto.id**
+- ⏰ **Available for freelance projects** and **full-time opportunities**
+- 💬 **Open to discussing** backend development, API design, and full-stack projects
 
 ### **💼 What I Can Build For You**
 
-🚀 **Web Apps That Wow** - Custom applications that users love
-🔧 **APIs That Scale** - Robust backends that handle growth
-📱 **Full-Stack Magic** - Laravel + React/Next.js harmony
-🗄️ **Data Architecture** - Databases designed for performance
-🚢 **DevOps Automation** - Seamless deployment pipelines
+- 🚀 **Web Apps That Wow** - Custom applications that users love
+- 🔧 **APIs That Scale** - Robust backends that handle growth
+- 📱 **Full-Stack Magic** - Laravel + React/Next.js harmony
+- 🗄️ **Data Architecture** - Databases designed for performance
+- 🚢 **DevOps Automation** - Seamless deployment pipelines
 
 ---
 
