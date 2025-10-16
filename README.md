@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Welcome to My Digital Empire (Technically Just My Laptop and Me)
+# 🌟 My Digital Empire (Just Me & My Laptop)
 
 ### 👋 Hi, I'm **Alif Akbar**
 
