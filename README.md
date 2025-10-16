@@ -91,44 +91,44 @@
 
 ### 🎫 Event Ticketing System API
 
-> _"Events made effortless - because every moment counts"_ 🚀
+> _"Production-ready events, minus the hassle"_ 🚀
 
-**Tired of ticketing nightmares?** This Go-powered API handles events like a pro. **JWT auth** keeps things secure, **QR codes** make check-ins a breeze, and **Swagger docs** mean zero confusion for developers.
+**Enterprise-grade ticketing API** built with Go and Gin. Features **JWT authentication**, **QR code generation**, and **comprehensive Swagger documentation** for seamless event management.
 
-**Why it's awesome:**
-- 🔐 **Rock-solid authentication** that scales
-- 🎫 **Smart ticket management** with dynamic pricing
-- 📱 **QR codes** for seamless event entry
-- 📊 **Real-time insights** to track success
-- 🔄 **Auto-notifications** that actually work
+**Key Features:**
+- 🔐 **Secure JWT authentication** with role-based access
+- 🎫 **Complete ticket lifecycle** management
+- 📱 **QR code generation** for contactless check-ins
+- 📚 **Full API documentation** with Swagger UI
+- 🗄️ **PostgreSQL database** with optimized queries
 
-**Built with:** Go 1.24, Gin, PostgreSQL, JWT, Swagger
+**Tech Stack:** Go 1.24, Gin Framework, GORM, PostgreSQL, JWT
 
 ```bash
 cd "Go Project/event-system" && go run main.go
 ```
 
-_🔗 [Source Code](https://github.com/alifakbxr/event-ticketing-system-API) | [API Docs](http://localhost:8080/swagger/index.html)_
+_🔗 [Source Code](https://github.com/alifakbxr/event-ticketing-system-API) | [API Documentation](http://localhost:8080/swagger/index.html)_
 
 ---
 
 ### 🎵 Vinyl Player with Spotify Integration
 
-> _"Where digital meets analog - and sounds incredible"_ 🎵
+> _"Music that looks as good as it sounds"_ 🎵
 
-**Rediscover your music collection** with this gorgeous vinyl player that combines **Spotify's vast library** with the **tactile joy of vinyl**. Smooth animations, glassmorphism effects, and buttery performance.
+**Beautiful vinyl player interface** with Spotify integration. Combines the **visual appeal of vinyl records** with **modern streaming capabilities** for an immersive music experience.
 
-**The magic:**
-- 🎧 **Spotify integration** brings millions of songs to life
-- 💿 **Spinning vinyl animations** that feel real
-- 🎨 **Glassmorphism design** that's pure eye candy
-- 📱 **Responsive everywhere** - desktop to mobile
-- ⚡ **Lightning fast** with Next.js 14 optimization
+**Features:**
+- 🎧 **Spotify API integration** for music streaming
+- 💿 **Realistic vinyl animations** with smooth transitions
+- 📱 **Responsive design** across all devices
+- ⚡ **Optimized performance** with modern web tech
+- 🎨 **Glassmorphism UI** with stunning visual effects
 
-**Crafted with:** Next.js 14, React 18, TypeScript, Tailwind CSS, Spotify API
+**Built with:** Next.js 14, React 18, TypeScript, Tailwind CSS, Spotify API
 
 ```bash
-cd "React & Next Project/personal" && npm run dev
+cd "React & Next Project/vinyl-player" && npm run dev
 ```
 
 _🔗 [Source Code](https://github.com/alifakbxr/vinyl-player) | [Live Demo](http://localhost:3000)_
@@ -137,24 +137,47 @@ _🔗 [Source Code](https://github.com/alifakbxr/vinyl-player) | [Live Demo](htt
 
 ### 🗳️ Real-Time Polling System
 
-> _"When every voice matters - instantly"_ 🗳️
+> _"Live polls, instant results"_ 🗳️
 
-**Transform any gathering** into an interactive experience. This polling system delivers **real-time results** as votes come in, making presentations, classrooms, and events truly engaging.
+**Modern polling platform** with real-time updates. Perfect for **interactive presentations**, **classrooms**, and **live events** where instant feedback matters.
 
-**Why it rocks:**
-- ⚡ **Live updates** - see results change in real-time
-- 📊 **Beautiful charts** that animate as votes roll in
-- 👥 **Multiple choice** or single-answer polls
-- 📱 **Mobile-optimized** for everyone to participate
-- 🔒 **Spam-proof** with smart rate limiting
+**Features:**
+- ⚡ **Real-time WebSocket** updates for instant results
+- 📊 **Live result visualization** with animated charts
+- 👥 **Multiple poll types** (single/multiple choice)
+- 📱 **Mobile-first design** for accessibility
+- 🔒 **Rate limiting** and anti-spam protection
 
-**Engineered with:** Go, React, WebSocket, PostgreSQL, TailwindCSS
+**Tech Stack:** Go, Gin, React, WebSocket, PostgreSQL, TailwindCSS
 
 ```bash
 cd pooling-system && docker-compose up --build
 ```
 
 _🔗 [Source Code](https://github.com/alifakbxr/pooling-system) | [Live Demo](http://localhost:3000)_
+
+---
+
+### 🎫 Laravel Ticketing System API
+
+> _"Laravel power for ticketing solutions"_ 🎫
+
+**Production-ready REST API** for ticketing systems built with Laravel 10. Features **JWT authentication**, **PostgreSQL database**, and **comprehensive role-based access control**.
+
+**Features:**
+- 🔐 **JWT authentication** with refresh tokens
+- 👤 **Multi-role support** (Admin/Staff/User)
+- 📧 **Email notifications** and queue processing
+- 📊 **Admin dashboard** with real-time statistics
+- 🗄️ **PostgreSQL backend** with advanced features
+
+**Tech Stack:** Laravel 10, PHP 8.3+, PostgreSQL, JWT, Laravel Sanctum
+
+```bash
+cd ticketing-system && composer install && php artisan serve
+```
+
+_🔗 [Source Code](https://github.com/alifakbxr/ticketing-system-api) | [API Documentation](http://localhost:8000/api/docs)_
 
 ---
 
