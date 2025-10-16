@@ -49,8 +49,6 @@ My expertise spans the entire development lifecycle - from **database architectu
 
 ### 🛠️ Core Skills & Tech Stack
 
-<div align="center">
-
 #### **Backend Technologies** 🔧
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -78,8 +76,6 @@ My expertise spans the entire development lifecycle - from **database architectu
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-</div>
 
 ---
 
