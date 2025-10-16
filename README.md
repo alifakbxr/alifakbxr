@@ -112,30 +112,6 @@ _🔗 [Source Code](https://github.com/alifakbxr/event-ticketing-system-API) | [
 
 ---
 
-### 💰 Financial Planner Application
-
-> _"Money talks - but this app speaks your language"_ 💰
-
-**Take control of your finances** with this beautiful Laravel + React app. Track expenses, spot trends, and make smarter money decisions with **gorgeous visualizations** that actually make sense.
-
-**What makes it special:**
-- 💳 **Smart expense tracking** that learns your habits
-- 📊 **Stunning dashboards** that reveal insights at a glance
-- 👥 **Multi-user support** for family budgeting
-- 📱 **Works perfectly** on phone, tablet, and desktop
-- 🔒 **Bank-level security** for your financial data
-
-**Powered by:** Laravel 12, React 18, TypeScript, Tailwind CSS
-
-```bash
-cd "Laravel Project/financial-planner"
-composer install && npm install && php artisan serve
-```
-
-_🔗 [Source Code](https://github.com/alifakbxr/financial-planner) | [Live Demo](http://localhost:8000)_
-
----
-
 ### 🎵 Vinyl Player with Spotify Integration
 
 > _"Where digital meets analog - and sounds incredible"_ 🎵
