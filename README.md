@@ -1,14 +1,15 @@
-# Hi there, I'm Alif Akbar! 👋
+# Alif Akbar - Full Stack Developer
 
 <p align="center">
+  <p align="center">Building modern web experiences with React, Vue, Laravel, and Golang.</p>
   <a href="https://helloalif.tech">
-    <img src="https://img.shields.io/badge/Portfolio-helloalif.tech-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio-helloalif.tech-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Alif Akbar's Portfolio Website" />
   </a>
   <a href="https://www.linkedin.com/in/helloalif/">
-    <img src="https://img.shields.io/badge/LinkedIn-Alif%20Akbar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Alif%20Akbar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Alif Akbar on LinkedIn" />
   </a>
-  <a href="mailto:hello@alif.dev">
-    <img src="https://img.shields.io/badge/Email-xaliip16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:xaliip16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-xaliip16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Alif Akbar" />
   </a>
 </p>
 
@@ -16,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I am an experienced **Full-stack Developer** based in **Jakarta, Indonesia**. I specialize in building modern, scalable web applications and crafting intuitive user experiences. My passion lies in solving complex problems using technology, ranging from enterprise ERP systems to educational platforms with AI integration.
+I am an experienced **Full-stack Developer** based in **Deli Serdang, Indonesia**. I specialize in building modern, scalable web applications and crafting intuitive user experiences. My passion lies in solving complex problems using technology, ranging from enterprise ERP systems to educational platforms with AI integration.
 
 - 🔭 I’m currently working on open source projects and expansive web applications.
 - 🌱 I’m constantly learning new technologies in the **React** and **AI** ecosystem.
@@ -28,9 +29,9 @@ I am an experienced **Full-stack Developer** based in **Jakarta, Indonesia**. I 
 
 <div align="center">
 
-| Frontend | Backend | Languages & DB |
+| Frontend Technologies | Backend & Architecture | Languages & Databases |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,ts" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php" /> | <img src="https://skillicons.dev/icons?i=python,java,postgres,mysql" /> |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,ts" alt="React, Next.js, Tailwind CSS, TypeScript" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php" alt="Node.js, Express, Laravel, PHP" /> | <img src="https://skillicons.dev/icons?i=python,java,postgres,mysql" alt="Python, Java, PostgreSQL, MySQL" /> |
 
 </div>
 
@@ -40,10 +41,10 @@ I am an experienced **Full-stack Developer** based in **Jakarta, Indonesia**. I 
 
 <div align="center">
   <a href="https://github.com/alifakbxr">
-    <img src="https://github-readme-stats.vercel.app/api?username=alifakbxr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Alif's GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alifakbxr&theme=tokyonight" alt="Alif Akbar's GitHub Stats Overview" />
   </a>
   <a href="https://github.com/alifakbxr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifakbxr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alifakbxr&theme=tokyonight" alt="Alif Akbar's Most Used Languages" />
   </a>
 </div>
 
