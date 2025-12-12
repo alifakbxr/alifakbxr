@@ -31,7 +31,7 @@ I am an experienced **Full-stack Developer** based in **Deli Serdang, Indonesia*
 
 | Frontend Technologies | Backend & Architecture | Languages & Databases |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,ts" alt="React, Next.js, Tailwind CSS, TypeScript" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php" alt="Node.js, Express, Laravel, PHP" /> | <img src="https://skillicons.dev/icons?i=python,java,postgres,mysql" alt="Python, Java, PostgreSQL, MySQL" /> |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,ts" alt="React, Next.js, Vue, Tailwind CSS, TypeScript" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php" alt="Node.js, Express, Laravel, PHP" /> | <img src="https://skillicons.dev/icons?i=python,java,postgres,mysql" alt="Python, PostgreSQL, MySQL" /> |
 
 </div>
 
