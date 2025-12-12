@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Alif%20Akbar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:hello@alif.dev">
-    <img src="https://img.shields.io/badge/Email-hello@alif.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-xaliip16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
