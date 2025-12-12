@@ -1,6 +1,8 @@
-# Alif Akbar - Full Stack Developer
-
 <p align="center">
+  # Alif Akbar - Full Stack Developer
+</p>
+
+<div align="center">
   <p align="center">Building modern web experiences with React, Vue, Laravel, and Golang.</p>
   <a href="https://helloalif.tech">
     <img src="https://img.shields.io/badge/Portfolio-helloalif.tech-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Alif Akbar's Portfolio Website" />
@@ -11,7 +13,7 @@
   <a href="mailto:xaliip16@gmail.com">
     <img src="https://img.shields.io/badge/Email-xaliip16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Alif Akbar" />
   </a>
-</p>
+</div>
 
 <br />
 
