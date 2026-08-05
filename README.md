@@ -58,20 +58,10 @@ I actively contribute to major open-source ecosystems, improving developer exper
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alifakbxr&show_icons=true&theme=transparent&hide_border=true&title_color=0F172A&text_color=6B7280&icon_color=4F46E5&bg_color=ffffff" alt="GitHub Stats" width="100%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alifakbxr&show_icons=true&theme=transparent&hide_border=true&title_color=0F172A&text_color=6B7280&icon_color=4F46E5&bg_color=ffffff" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alifakbxr&theme=transparent&hide_border=true&title_color=0F172A&text_color=6B7280&icon_color=4F46E5&background=ffffff" alt="GitHub Streak" width="49%" />
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alifakbxr&theme=transparent&hide_border=true&title_color=0F172A&text_color=6B7280&icon_color=4F46E5&background=ffffff" alt="GitHub Streak" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alifakbxr&bg_color=ffffff&color=0F172A&line=4F46E5&point=0F172A&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-</div>
 
 <br />
 
