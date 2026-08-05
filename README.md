@@ -34,6 +34,27 @@ I actively contribute to major open-source ecosystems, improving developer exper
 
 ---
 
+### Highlighted Projects
+
+<div align="center">
+  <a href="https://github.com/alifakbxr/event-ticketing-system-API">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alifakbxr&repo=event-ticketing-system-API&theme=transparent&hide_border=true&title_color=0F172A&text_color=6B7280&icon_color=4F46E5&bg_color=ffffff" alt="Event Ticketing API" width="49%" />
+  </a>
+  <a href="https://github.com/alifakbxr/mau-nabung">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alifakbxr&repo=mau-nabung&theme=transparent&hide_border=true&title_color=0F172A&text_color=6B7280&icon_color=4F46E5&bg_color=ffffff" alt="Mau Nabung App" width="49%" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/alifakbxr/ticketing-system-api">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alifakbxr&repo=ticketing-system-api&theme=transparent&hide_border=true&title_color=0F172A&text_color=6B7280&icon_color=4F46E5&bg_color=ffffff" alt="Ticketing System API" width="49%" />
+  </a>
+  <a href="https://github.com/alifakbxr/Multimedia-Archive-Manager">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alifakbxr&repo=Multimedia-Archive-Manager&theme=transparent&hide_border=true&title_color=0F172A&text_color=6B7280&icon_color=4F46E5&bg_color=ffffff" alt="Multimedia Archive Manager" width="49%" />
+  </a>
+</div>
+
+---
+
 ### GitHub Analytics
 
 <div align="center">
