@@ -21,7 +21,10 @@ I build scalable B2B SaaS platforms, enterprise APIs, and high-performance web a
 I actively contribute to major open-source ecosystems, improving developer experience, fixing core bugs, and building out new features in the tools I use daily.
 
 **[Supabase](https://github.com/supabase/supabase)** — *Open source Firebase alternative*
-- Contributed to core features and bugfixes ([PR #48764](https://github.com/supabase/supabase/pull/48764))
+- Contributed to core features, fixing `pg-meta` introspection, marketing form validation, and docs ([PR #48782](https://github.com/supabase/supabase/pull/48782), [PR #48781](https://github.com/supabase/supabase/pull/48781), [PR #48780](https://github.com/supabase/supabase/pull/48780), [PR #48779](https://github.com/supabase/supabase/pull/48779), [PR #48766](https://github.com/supabase/supabase/pull/48766), [PR #48764](https://github.com/supabase/supabase/pull/48764))
+
+**[Claude Code](https://github.com/anthropics/claude-code)** — *Anthropic's terminal-based AI assistant*
+- Authored bug fixes for hook lifecycles and script interactions ([PR #84365](https://github.com/anthropics/claude-code/pull/84365), [PR #84364](https://github.com/anthropics/claude-code/pull/84364))
 
 **[Nuxt](https://github.com/nuxt/nuxt)** — *The Intuitive Vue Framework*
 - Contributed improvements to the framework core ([PR #35989](https://github.com/nuxt/nuxt/pull/35989), [PR #35988](https://github.com/nuxt/nuxt/pull/35988))
@@ -29,8 +32,11 @@ I actively contribute to major open-source ecosystems, improving developer exper
 **[Claude Agent SDK](https://github.com/anthropics/claude-agent-sdk-typescript)** — *TypeScript SDK for Claude Agents*
 - Authored multiple contributions establishing standards and improvements for the agent framework ([PR #399](https://github.com/anthropics/claude-agent-sdk-typescript/pull/399), [PR #398](https://github.com/anthropics/claude-agent-sdk-typescript/pull/398), [PR #397](https://github.com/anthropics/claude-agent-sdk-typescript/pull/397))
 
+**[Photobooth](https://github.com/PhotoboothProject/photobooth)** — *Open-source photobooth software*
+- Added configuration features for screensaver path modes ([PR #1615](https://github.com/PhotoboothProject/photobooth/pull/1615))
+
 **[GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)**
-- Added features and fixes to the popular GitHub stats tracker ([PR #798](https://github.com/DenverCoder1/github-readme-streak-stats/pull/798))
+- Added language localizations to the popular GitHub stats tracker ([PR #798](https://github.com/DenverCoder1/github-readme-streak-stats/pull/798), [PR #797](https://github.com/DenverCoder1/github-readme-streak-stats/pull/797))
 
 ---
 
