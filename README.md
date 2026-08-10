@@ -26,9 +26,6 @@ I actively contribute to major open-source ecosystems, improving developer exper
 **[Claude Code](https://github.com/anthropics/claude-code)** — *Anthropic's terminal-based AI assistant*
 - Authored bug fixes for hook lifecycles and script interactions ([PR #84365](https://github.com/anthropics/claude-code/pull/84365), [PR #84364](https://github.com/anthropics/claude-code/pull/84364))
 
-**[Nuxt](https://github.com/nuxt/nuxt)** — *The Intuitive Vue Framework*
-- Contributed improvements to the framework core ([PR #35989](https://github.com/nuxt/nuxt/pull/35989), [PR #35988](https://github.com/nuxt/nuxt/pull/35988))
-
 **[Claude Agent SDK](https://github.com/anthropics/claude-agent-sdk-typescript)** — *TypeScript SDK for Claude Agents*
 - Authored multiple contributions establishing standards and improvements for the agent framework ([PR #399](https://github.com/anthropics/claude-agent-sdk-typescript/pull/399), [PR #398](https://github.com/anthropics/claude-agent-sdk-typescript/pull/398), [PR #397](https://github.com/anthropics/claude-agent-sdk-typescript/pull/397))
 
