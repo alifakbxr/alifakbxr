@@ -4,8 +4,10 @@ Full-stack developer at [Katsudoto.id](https://katsudoto.id), based in Medan, In
 I mostly work with Laravel, Go, and Vue.
 
 - 🏆 Won **Best Open-Source AI Project** at Hacktoberfest Hack Day Medan 2026 with [VeriFile AI](https://github.com/alifakbxr/VeriFile-AI)
-- 725+ merged PRs on Katsudoto's production apps since 2024: performance, WhatsApp integration, guest access, check-in tools
+- Building and maintaining Katsudoto's production apps: performance optimization, WhatsApp integration, guest access, and QR check-in tools
 - Contributed a fix to [google-cloud-php](https://github.com/googleapis/google-cloud-php/pull/9436) (CPU spin in the Core Batch daemon)
+- Contributed a fix to [Photobooth](https://github.com/PhotoboothProject/photobooth/pull/1615) (screensaver folder configuration and path resolution)
+- Contributed Indonesian localization to [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats/pull/797)
 - Currently learning to build LLM apps (RAG, tool calling)
 
 **Projects**
@@ -16,4 +18,4 @@ I mostly work with Laravel, Go, and Vue.
 
 **Stack:** PHP/Laravel · Go · Vue · Next.js · TypeScript · Python · MySQL · PostgreSQL · Redis
 
-[alifakbar.pw](https://alifakbar.pw) · [LinkedIn](https://www.linkedin.com/in/alifakbxr) · xaliip16@gmail.com
+[My Website](https://alifakbar.id) · [LinkedIn](https://www.linkedin.com/in/alifakbxr) · [Email](mailto:xaliip16@gmail.com)
