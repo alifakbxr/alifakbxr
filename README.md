@@ -1,7 +1,5 @@
 ## Hi, I'm Alif
 
-![Profile Views](https://komarev.com/ghpvc/?username=alifakbxr&color=007ec6&style=flat-square&label=Profile+Views&base=40)
-
 Full-stack developer at [Katsudoto.id](https://katsudoto.id), based in Medan, Indonesia.
 I mostly work with Laravel, Go, and Vue.
 
