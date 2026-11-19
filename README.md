@@ -12,6 +12,8 @@ I mostly work with Laravel, Go, and Vue.
 
 **Projects**
 - [VeriFile AI](https://github.com/alifakbxr/VeriFile-AI): receipt forensics that detects AI-generated and edited transfer proofs (Python, OCR, Gradio)
+- [a2a](https://github.com/alifakbxr/a2a): local-first engineering intelligence, impact analysis, token telemetry & verification for Antigravity AI agents (Node.js, SQLite, MCP)
+- [product-ui](https://github.com/alifakbxr/product-ui): open, stack-neutral Agent Skill (backend-to-ui) to design, audit, or transform real backend code into product-grade interfaces
 - [cakwe](https://github.com/alifakbxr/cakwe): local-first remote job radar that tailors your resume for ATS (Python, LLM)
 - [RTIMS](https://github.com/alifakbxr/RTIMS): real-time inventory management system (Go, PostgreSQL)
 - [mau-nabung](https://github.com/alifakbxr/mau-nabung): personal finance app (Laravel)
